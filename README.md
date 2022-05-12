@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rastisslav
-- 👀 I’m interested in bioinformatics,data science and slightly in cybersecurity
-- 🌱 I’m currently learning R, Sql, Perl, Java, Python in this order
+- 👀 I’m interested in bioinformatics, software development,data science and slightly in cybersecurity
+- 🌱 I’m currently learning Java and databases, in future i want to learn data science
 - 📫 How to reach me bolibruch2000@gmail.com
 
 <!---
