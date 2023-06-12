@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Rastisslav
-- 👀 I’m interested in  software development,cloud and slightly in cybersecurity
-- 🌱 I’m currently learning Java and databases
 - 📫 How to reach me bolibruch2000@gmail.com
 
 <!---
